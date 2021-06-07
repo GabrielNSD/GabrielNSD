@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## What I have been coding lately:  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnsd&layout=compact&exclude_repo=Simpatibot&hide=html&langs_count=6)](https://github.com/gabrielnsd/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnsd&layout=compact&hide=html&langs_count=6)](https://github.com/gabrielnsd/github-readme-stats)
 
 
 [![Gabriel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielnsd)](https://github.com/anuraghazra/github-readme-stats)
