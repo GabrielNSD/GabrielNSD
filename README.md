@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Gabriel and I am a sofware developer. I am from Brazil and currently developing my biggest project so far, [my startup](pego.app).  
+My name is Gabriel and I am a sofware developer. I am from Brazil and currently developing my biggest project so far, [my startup](https://pego.app).  
 
 You can find me on [<img src="./icons/twitter.png" height="16">](https://twitter.com/gabrielnsd), or on [<img src="./icons/linkedin.png">](https://www.linkedin.com/in/gabrielnsdantas/?locale=en_US)
 
